@@ -1,6 +1,6 @@
 {
     "app_id" : "com.ealeph.pruebaslms",
-    "appname": "Mediatek Mobile",
+    "appname": "Mediatek Learning",
     "desktopappname": "Mediatek Desktop",
     "versioncode" : "2022",
     "versionname" : "3.4.0.1",
@@ -11,8 +11,8 @@
     "wsextservice" : "local_mobile",    
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://pruebaslms.ealeph.com.mx/",
-    "multisitesdisplay": "select",
+    "siteurl": "https://pruebaslms.ealeph.com.mx",
+    "multisitesdisplay": "false",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
