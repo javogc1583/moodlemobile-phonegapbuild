@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.ealeph.pruebaslms"
-        versionCode = "20220"
+        versionCode = "20221"
         version   = "3.4.0.2">
     <name>Mediatek Learning</name>
 
