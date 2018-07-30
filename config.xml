@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.mediateklearning"
         versionCode = "20221"
-        version   = "3.4.0.2">
+        version   = "3.4.0.3">
     <name>Mediatek Learning</name>
 
     <description>
